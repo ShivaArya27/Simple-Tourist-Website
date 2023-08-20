@@ -1,0 +1,58 @@
+h1{
+    background-color: aqua;
+    text-align: center;
+}
+
+h1:hover{
+    background-color: blue;
+}
+
+img{
+    height: 500px;
+    width: 1510px;
+    border: solid 2pt black;
+    
+}
+
+.login{
+    box-sizing: border-box;
+    text-align: center;
+    box-sizing: border-box;
+    }
+
+input[type=text]{
+    box-sizing: border-box;
+    padding: 15px 32px;
+}
+
+.box{
+    background-color: aquamarine;
+}
+
+li{
+    display: inline;
+    padding: 10px;
+}
+
+
+ul{
+    background-color: #dddddd;
+    text-align: center;
+}
+
+
+ul a:hover{
+    background-color: burlywood;
+}
+
+ul a{
+    padding: 10px 150px;
+    display: inline;
+    text-align: center;
+}
+
+.terms{
+    background-color: black;
+}
+
+
